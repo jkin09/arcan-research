@@ -1,0 +1,10 @@
+﻿# ARCAN private data — never publish
+data/
+certs/
+*.key
+*.pem
+.env
+*.log
+__pycache__/
+.venv/
+config.local.*
